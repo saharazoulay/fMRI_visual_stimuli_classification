@@ -1,4 +1,4 @@
-# fMRI Movie and Rest Classification 
+# fMRI_visual_stimuli_classification 
 
 This project explores decoding **which movie clip** (or rest segment) a participant was watching based on fMRI brain activity patterns.  
 Using data from the Human Connectome Project (HCP), the task involved classifying **14 movie clips and 14 rest periods** recorded from **170 subjects**, focusing on three functional brain networks: **Visual (VIS)**, **Dorsal Attention (DAN)**, and **Default Mode (DMN)**.
